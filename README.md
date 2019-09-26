@@ -13,7 +13,7 @@ Why doesn't it work?
 -  git commit -m "update" (업데이트를 한다)
 -  git push (github에 올린다.)
 
-## 쥬피처 노트북 유용 단축키
+## 주피터 노트북 유용 단축키
 
 - H 단축키 확인가능 
 - A, B 앞뒤 셀 만들기 
